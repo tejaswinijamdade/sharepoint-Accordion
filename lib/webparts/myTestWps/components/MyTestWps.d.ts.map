@@ -1,0 +1,1 @@
+{"version":3,"file":"MyTestWps.d.ts","sourceRoot":"","sources":["../../../../src/webparts/myTestWps/components/MyTestWps.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AAOpD,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,KAAK,CAAC,SAAS,CAAC,eAAe,EAAE,EAAE,CAAC;IAClE,MAAM,IAAI,KAAK,CAAC,YAAY,CAAC,eAAe,CAAC;CAsBrD"}
